@@ -1,0 +1,36 @@
+<style>
+  #active{
+    color:black;
+  }
+  .saw{
+    color:black;
+  }
+  a{
+    color:black;
+    text-decoration: none;
+  }
+  h1{
+    font-size:50px;
+    text-align: center;
+    border-bottom:3px solid gray;
+    margin:0;
+  }
+
+ #grid{
+   display: grid;
+   grid-template-columns: 150px 1fr;
+ }
+ ol{
+   padding-left:40px;
+   border-right:3px solid gray;
+   width:300px;
+   margin:0;
+   }
+  #article{
+     padding-left:200px;
+     article-template-columns: 150px 1fr;
+     font-size:20px;
+     }
+
+
+  </style>
